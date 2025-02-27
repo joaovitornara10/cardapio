@@ -1,12 +1,4 @@
-import { dataPorcoes, destaque, dataLanches, dataBebidas } from "@/db"
-import { ProducType } from "@/types/ProductTypes";
-import ProductImage from "./componets/ProductImage";
-import Porcoe from "./componets/Porcao";
-import Bebidas from "./componets/Bebida";
-import Bebida from "./componets/Bebida";
-import Lanche from "./componets/Lanche";
-import ComboLanche from "./componets/ComboLanche";
-import Image from "next/image";
+import { dataPorcoes, dataLanches, dataBebidas } from "@/db"
 import Card from "./componets/Card";
 
 export default function Home() {
