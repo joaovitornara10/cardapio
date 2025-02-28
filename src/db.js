@@ -80,7 +80,7 @@ export const dataLanches = ([ //
     },
     {
         id: "002",
-        tate: "combos de lanche",
+        tate: "combo de lanche",
         itens: [
 
             {
