@@ -1,12 +1,47 @@
 
 
-export const destaque = ([
-    {
-        id: "511",
-        name: "chopp",
-        price: "10,00",
+export const destaque = ([{
+    id: "32",
+    tate: "SKOL BEATS",
+    itens: [
+        {
+            id: "350",
+            name: "SKOL BEATS CAIPIRINHA 269ML ",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SKOL BEATS GT 269ML ",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SKOL BEATS RED MIX 269ML ",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SKOL BEATS SENSES 269ML ",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SKOL BEATS TROPICAL 269ML ",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+    ],
     },
-   
+
 ]);
 
 export const dataComplement = ([
@@ -25,7 +60,7 @@ export const dataComplement = ([
         name: "bacon",
         price: 20,
     },
-]);  
+]);
 
 export const dataLanches = ([ //
     {
@@ -202,27 +237,27 @@ export const dataPorcoes = ([
                 price1: "26,99",
                 category: "porcao"
             },
-            
+
         ]
     },
     {
         id: "23",
         tate: "peixes",
-        itens: [           
+        itens: [
             {
                 id: "131",
                 name: "COSTELINHA DE TAMBAQUI",
                 price: "53,99",
                 price1: "48,99",
                 category: "porcao"
-            },        
+            },
             {
                 id: "132",
                 name: "FILÉ DE TAMBAQUI",
                 price: "54,99",
                 price1: "37,99",
                 category: "porcao"
-            },        
+            },
             {
                 id: "133",
                 name: "FILÉ DE TILAPIA ",
@@ -232,31 +267,31 @@ export const dataPorcoes = ([
             },
         ]
     },
-    {        
+    {
         id: "24",
         tate: "acompanhamentos",
-        itens:[
+        itens: [
             {
                 id: "141",
                 name: "ARROS",
                 price: "31,99",
                 price1: "8,99",
                 category: "porcao"
-            },  
+            },
             {
                 id: "142",
                 name: "FEIJÃO TROPEIRO",
                 price: "39,99",
                 price1: "9,99",
                 category: "porcao"
-            },  
+            },
             {
                 id: "143",
                 name: "SALADA",
                 price: "19,99",
                 price1: "9,99",
                 category: "porcao"
-            },  
+            },
         ]
     }
 
@@ -265,7 +300,7 @@ export const dataPorcoes = ([
 export const dataBebidas = ([
     {
         id: "31",
-        tate: "BEBIDA",
+        tate: "BEBIDAS",
         itens: [
             {
                 id: "311",
@@ -434,7 +469,7 @@ export const dataBebidas = ([
     },
     {
         id: "32",
-        tate: "CERVEJA",
+        tate: "CERVEJAS",
         itens: [
             {
                 id: "350",
@@ -559,7 +594,7 @@ export const dataBebidas = ([
     },
     {
         id: "33",
-        tate: "SUCO",
+        tate: "SUCOS",
         itens: [
             {
                 id: "400",
@@ -646,72 +681,32 @@ export const dataBebidas = ([
 
             },
         ]
-    }, 
+    },
     {
         id: "32",
-        tate: "CERVEJA",
+        tate: "DRINQUES",
         itens: [
             {
                 id: "350",
-                name: "SKOL BEATS CAIPIRINHA 269ML ",
-                price: "11,99",
+                name: "BEIJO NA BOCA ",
+                price: "27,99",
                 category: "bebidas"
-
             },
             {
                 id: "350",
-                name: "SKOL BEATS GT 269ML ",
-                price: "11,99",
+                name: "PINA COLADA ",
+                price: "27,99",
                 category: "bebidas"
-
             },
             {
                 id: "350",
-                name: "SKOL BEATS RED MIX 269ML ",
-                price: "11,99",
-                category: "bebidas"
-
+                name: "CAIPIRINHAS ",
+                price: "24,99",
+                category: "bebidas",
+                description: "LIMAO, MORANGO, ABACAXI, KIWI"
             },
-            {
-                id: "350",
-                name: "SKOL BEATS SENSES 269ML ",
-                price: "11,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "350",
-                name: "SKOL BEATS TROPICAL 269ML ",
-                price: "11,99",
-                category: "bebidas"
-
-            },
-        ],
-        }, 
-        {
-            id: "32",
-            tate: "BRINQUES",
-            itens: [
-                {
-                    id: "350",
-                    name: "BEIJO NA BOCA ",
-                    price: "27,99",
-                    category: "bebidas"
-                },
-                {
-                    id: "350",
-                    name: "PINA COLADA ",
-                    price: "27,99",
-                    category: "bebidas"
-                },
-                {
-                    id: "350",
-                    name: "CAIPIRINHAS ",
-                    price: "24,99",
-                    category: "bebidas",
-                    description:"LIMAO, MORANGO, ABACAXI, KIWI"
-                },
-            ]}
+        ]
+    }
 ])
 
 export const data2 = ([
