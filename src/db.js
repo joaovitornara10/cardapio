@@ -274,7 +274,7 @@ export const dataPorcoes = ([
 export const dataBebidas = ([
     {
         id: "31",
-        tate: "BEBIDAS",
+        tate: "BEBIDA",
         itens: [
             {
                 id: "311",
@@ -443,7 +443,7 @@ export const dataBebidas = ([
     },
     {
         id: "32",
-        tate: "CERVEJAS",
+        tate: "CERVEJA",
         itens: [
             {
                 id: "350",
@@ -568,7 +568,7 @@ export const dataBebidas = ([
     },
     {
         id: "33",
-        tate: "SUCOS",
+        tate: "SUCO",
         itens: [
             {
                 id: "400",
