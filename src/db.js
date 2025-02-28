@@ -646,34 +646,66 @@ export const dataBebidas = ([
 
             },
         ]
-    },
+    }, 
     {
-        id: "34",
-        tate: "TERERE",
+        id: "32",
+        tate: "CERVEJA",
         itens: [
             {
-                id: "421",
-                name: "LIMONADA SUIÇA ",
-                price: "25,99",
+                id: "350",
+                name: "SKOL BEATS CAIPIRINHA 269ML ",
+                price: "11,99",
                 category: "bebidas"
 
             },
             {
-                id: "422",
-                name: "H2O ",
-                price: "29,99",
+                id: "350",
+                name: "SKOL BEATS GT 269ML ",
+                price: "11,99",
                 category: "bebidas"
 
             },
             {
-                id: "423",
-                name: "ABACAXI COM HORTELA ",
-                price: "29,99",
+                id: "350",
+                name: "SKOL BEATS RED MIX 269ML ",
+                price: "11,99",
                 category: "bebidas"
 
             },
-        ]
-    },
+            {
+                id: "350",
+                name: "SKOL BEATS SENSES 269ML ",
+                price: "11,99",
+                category: "bebidas"
+
+            },
+            {
+                id: "350",
+                name: "SKOL BEATS TROPICAL 269ML ",
+                price: "11,99",
+                category: "bebidas"
+
+            },
+        ],
+        }, 
+        {
+            id: "32",
+            tate: "BRINQUES",
+            itens: [
+                {
+                    id: "350",
+                    name: "BEIJO NA BOCA ",
+                    price: "11,99",
+                    category: "bebidas"
+                },
+                {
+                    id: "350",
+                    name: "CAIPIRINHAS ",
+                    price: "11,99",
+                    category: "bebidas",
+                    description:"LIMAO, MORANGO, ABACAXI, KIWI"
+                },
+            ]}
 ])
 
 export const data2 = ([
