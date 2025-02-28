@@ -7,7 +7,7 @@ export default function Home() {
         <div className="flex flex-col ">
 
             <div className="text-gray-100  w-full py-20 text-center justify-start items-center">
-                <h1 className=" text-3xl p-2 "> BRASA BURGER </h1>
+                <h1 className=" text-3xl p-2 "> DJ ARTES </h1>
                 <span className=" text-xl ">A ROTA DO SABOR</span>
             </div>
 
