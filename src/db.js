@@ -695,13 +695,19 @@ export const dataBebidas = ([
                 {
                     id: "350",
                     name: "BEIJO NA BOCA ",
-                    price: "11,99",
+                    price: "27,99",
+                    category: "bebidas"
+                },
+                {
+                    id: "350",
+                    name: "PINA COLADA ",
+                    price: "27,99",
                     category: "bebidas"
                 },
                 {
                     id: "350",
                     name: "CAIPIRINHAS ",
-                    price: "11,99",
+                    price: "24,99",
                     category: "bebidas",
                     description:"LIMAO, MORANGO, ABACAXI, KIWI"
                 },
