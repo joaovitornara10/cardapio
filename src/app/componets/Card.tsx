@@ -1,4 +1,4 @@
-import ProductImage from "@/app/componets/ProductImage";
+//import ProductImage from "@/app/componets/ProductImage";
 import { ProducType } from "@/types/ProductTypes";
 
 type productProps = {
