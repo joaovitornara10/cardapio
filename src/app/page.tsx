@@ -32,7 +32,7 @@ export default function Home() {
                 </div>
                 <div>
                 <div className=" relative w-full h-full ">
-                    <Image src='/bannerShowLG.jpeg'
+                    <Image src='banerdestake/ban.jpeg'
                         width={600}
                         height={700}
                         alt="destaque" />
