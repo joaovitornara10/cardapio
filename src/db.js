@@ -2,20 +2,11 @@
 
 export const destaque = ([
     {
-        id: "211",
+        id: "511",
         name: "chopp",
-        price: 10,
+        price: "10,00",
     },
-    {
-        id: "212",
-        name: "BRASA COSTELA ",
-        price: 25,
-    },
-    {
-        id: "213",
-        name: "TODAS AS TORES DE TERERE",
-        price: 20,
-    },
+   
 ]);
 
 export const dataComplement = ([

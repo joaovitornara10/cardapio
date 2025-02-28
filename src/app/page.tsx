@@ -22,7 +22,7 @@ export default function Home() {
                         alt="destaque" />
                 </div>
             </div>
-            {/**
+
              
 
            
@@ -30,16 +30,18 @@ export default function Home() {
                 <div className="p-2 w-full justify-center text-center text-xl  ">
                     <h2 className=" text-orange-500">OFERTA DO DIA </h2>
                 </div>
-                <div className=" relative 
-                                sm:max-h-28 sm:max-w-28:  ">
+                <div>
+                <div className=" relative w-full h-full ">
                     <Image src='/bannerShowLG.jpeg'
                         width={600}
                         height={700}
                         alt="destaque" />
                 </div>
+                </div>
             </div>
 
-                   
+                   {/**
+            
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                 <div className="p-2  w-full justify-center text-center text-xl  ">
                     <h2 className=" text-orange-500">OFERTA DO DIA </h2>
