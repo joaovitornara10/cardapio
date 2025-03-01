@@ -687,19 +687,19 @@ export const dataBebidas = ([
         tate: "DRINQUES",
         itens: [
             {
-                id: "350",
+                id: "450",
                 name: "BEIJO NA BOCA ",
                 price: "27,99",
                 category: "bebidas"
             },
             {
-                id: "350",
+                id: "450",
                 name: "PINA COLADA ",
                 price: "27,99",
                 category: "bebidas"
             },
             {
-                id: "350",
+                id: "450",
                 name: "CAIPIRINHAS ",
                 price: "24,99",
                 category: "bebidas",
@@ -726,28 +726,72 @@ export const data2 = ([
 
 ]);
 
-export const alacartes = ([
+export const  combos = ([
+    
     {
-        id: "421",
-        name: "LIMONADA SUIÇA ",
-        price: "25,99",
-        category: "bebidas"
+        id: "41",
+        tate: "ALACARTES",
+        itens: [
+            {
+                id: "501",
+                name: "PICANHA COM FRITAS COMPLETO",
+                price: "",
+                category: "COMBOS",
+                description:"Picanha em tiras na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
+            },
+            {
+                id: "502",
+                name: "FILE ACEBOLADO COM FRITAS COMPLETO",
+                price: "27,99",
+                category: "COMBOS",
+                description:"file acebolado na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
 
+            },           
+        ]
     },
+    {
+        id: "42",
+        tate: "PRATOS EXECUTIVOS",
+        itens: [
+            {
+                id: "511",
+                name: "PRATO EXECULTIVO DE FILE A PARMEGIANA",
+                price: "26,99",
+                category: "COMBOS",
+                description:"File de bovine a parmegiana, Batata, Arros, Feijão Tropeiro e salada"
+            },
+            {
+                id: "512",
+                name: "PRATO EXECULTIVO DE FRANGO A PARMEGIANA",
+                price: "26,99",
+                category: "COMBOS",
+                description:"File de frango a parmegiana, Batata, Arros, Feijão Tropeiro e salada"
+            },           
+        ]
+    },
+    {
+        id: "43",
+        tate: "combos",
+        itens: [
+            {
+                id: "531",
+                name: "COMBO DE FRITAS",
+                price: "",
+                category: "COMBOS",
+                description:"Batata, Calabresa, Mandioca"
+            },
+            {
+                id: "532",
+                name: "COMBO DE FRITAS COM CHEDDAR",
+                price: "",
+                category: "COMBOS",
+                description:"Batata com Bacom e Cheddar, Calabresa, Mandioca"
+            },           
+        ]
+    }
 ]);
 
 export const pratoExecultivos = ([
-    {
-        id: "421",
-        name: "LIMONADA SUIÇA ",
-        price: "25,99",
-        category: "bebidas"
-
-    },
-]);
-
-
-export const combos = ([
     {
         id: "421",
         name: "LIMONADA SUIÇA ",
