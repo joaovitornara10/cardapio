@@ -736,14 +736,14 @@ export const  combos = ([
                 id: "501",
                 name: "PICANHA COM FRITAS COMPLETO",
                 price: "",
-                category: "COMBOS",
+                category: "lanche",
                 description:"Picanha em tiras na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
             },
             {
                 id: "502",
                 name: "FILE ACEBOLADO COM FRITAS COMPLETO",
                 price: "27,99",
-                category: "COMBOS",
+                category: "lanche",
                 description:"file acebolado na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
 
             },           
@@ -757,34 +757,34 @@ export const  combos = ([
                 id: "511",
                 name: "PRATO EXECULTIVO DE FILE A PARMEGIANA",
                 price: "26,99",
-                category: "COMBOS",
+                category: "lanche",
                 description:"File de bovine a parmegiana, Batata, Arros, Feijão Tropeiro e salada"
             },
             {
                 id: "512",
                 name: "PRATO EXECULTIVO DE FRANGO A PARMEGIANA",
                 price: "26,99",
-                category: "COMBOS",
+                category: "lanche",
                 description:"File de frango a parmegiana, Batata, Arros, Feijão Tropeiro e salada"
             },           
         ]
     },
     {
         id: "43",
-        tate: "combos",
+        tate: "COMBOS",
         itens: [
             {
                 id: "531",
                 name: "COMBO DE FRITAS",
                 price: "",
-                category: "COMBOS",
+                category: "lanche",
                 description:"Batata, Calabresa, Mandioca"
             },
             {
                 id: "532",
                 name: "COMBO DE FRITAS COM CHEDDAR",
                 price: "",
-                category: "COMBOS",
+                category: "lanche",
                 description:"Batata com Bacom e Cheddar, Calabresa, Mandioca"
             },           
         ]

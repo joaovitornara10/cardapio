@@ -1,4 +1,4 @@
-import { dataPorcoes, dataLanches, dataBebidas, destaque } from "@/db"
+import { dataPorcoes, dataLanches, dataBebidas, destaque, combos } from "@/db"
 //import { ProducType } from "@/types/ProductTypes";
 import Image from "next/image";
 import Card from "./componets/Card";
@@ -16,7 +16,7 @@ export default function Home() {
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
-                    <Image src='/bannerShowLG.jpeg'
+                    <Image src='/bannershow.jpeg'
                         width={600}
                         height={700}
                         alt="destaque" />
@@ -103,6 +103,22 @@ export default function Home() {
                 }
             </div>
             {
+                combos.map((items, index) => (
+                    <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+                        <div className="p-2  w-full justify-center text-center text-xl  ">
+                            <h2 className=" text-orange-400">{items.tate}</h2>
+                        </div>
+
+                        <div className="grid grid-cols-1 gap-1 
+                                        sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:gap-2 xl:gap-6 ">
+                            {items.itens.map((item, index) => (
+                                <Card key={index} product={item} />
+                            ))}
+                        </div>
+
+                    </div>
+                ))
+            }{
                 dataBebidas.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                         <div className="p-2  w-full justify-center text-center text-xl  ">
