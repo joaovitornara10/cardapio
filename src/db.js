@@ -706,6 +706,48 @@ export const dataBebidas = ([
                 description: "LIMAO, MORANGO, ABACAXI, KIWI"
             },
         ]
+    },
+    {
+        id: "34",
+        tate: "TERERE",
+        itens: [
+            {
+                id: "450",
+                name: "TORRE DE H2O",
+                price: "29,99",
+                category: "bebidas"
+            },
+            {
+                id: "450",
+                name: "LIMONADA SUIÇA",
+                price: "29,99",
+                category: "bebidas"
+            },
+            {
+                id: "450",
+                name: "GUARANA E LIMÃO ",
+                price: "29,99",
+                category: "bebidas",
+            },            
+            {
+                id: "450",
+                name: "MARACUJA E LIMÃO ",
+                price: "29,99",
+                category: "bebidas",
+            },            
+            {
+                id: "450",
+                name: "LIMÃO E HORTELA  ",
+                price: "29,99",
+                category: "bebidas",
+            },            
+            {
+                id: "450",
+                name: "ABACAXI COM HORTELA ",
+                price: "29,99",
+                category: "bebidas",
+            },
+        ]
     }
 ])
 
