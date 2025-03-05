@@ -840,7 +840,7 @@ export const  combos = ([
             {
                 id: "532",
                 name: "COMBO DE FRITAS COM CHEDDAR",
-                price: "56",
+                price: "76,99",
                 category: "lanche",
                 description:"Batata com Bacom e Cheddar, Calabresa, Mandioca"
             },           
