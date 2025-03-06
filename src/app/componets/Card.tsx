@@ -14,7 +14,7 @@ export default function Card({ product }: productProps) {
                     
                    <div className=" font-bold w-full items-center ">
                        <div className="flex items-center justify-between text-xs">
-                           <p className="  truncate  ">
+                           <p className="    ">
                                {product.name}
                            </p>                            
                                <samp className=" text-gray-300 w-16 bg-orange-500 text-sm font-bold text-center p-1">
@@ -57,16 +57,16 @@ export default function Card({ product }: productProps) {
                                     <div>
                                         {(product.category === 'lancheCombo') ? (
                                             <div className=" flex flex-col items-start">
-                                                <p className="  truncate text-center">
+                                                <p className="   text-center">
                                                     {product.name}
                                                 </p>
                                                 <p className=" text-xs  text-orange-400">
-                                                    1+refri lata +1batata combo
+                                                    1+coca ks +1batata combo
                                                 </p>
                                             </div>
                                         ) : (
                                             <div>
-                                                <p className="  truncate text-center">
+                                                <p className="   text-center">
                                                     {product.name}
                                                 </p>
                                             </div>
