@@ -163,7 +163,7 @@ export const dataPorcoes = ([
             },
             {
                 id: "114",
-                name: "BATATA COM BACOM E CHEDAR",
+                name: "BATATA COM BACOn E CHEDAR",
                 price: "39,99",
                 price1: "31,99",
                 category: "porcao"
@@ -842,7 +842,7 @@ export const  combos = ([
                 name: "COMBO DE FRITAS COM CHEDDAR",
                 price: "76,99",
                 category: "lanche",
-                description:"Batata com Bacom e Cheddar, Calabresa, Mandioca"
+                description:"Batata com Bacon e Cheddar, Calabresa, Mandioca"
             },           
         ]
     }
@@ -878,7 +878,7 @@ export const dose = ([
 ]);
 /*
 combos 
-batata com bacom e chader calabresa =53
+batata com bacon e chader calabresa =53
 
 batata  calabresa mandioca = 70
 
