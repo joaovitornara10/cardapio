@@ -17,7 +17,7 @@ export default function Card({ product }: productProps) {
                            <p className="    ">
                                {product.name}
                            </p>                            
-                               <samp className=" text-gray-300 w-16 bg-orange-500 text-sm font-bold text-center p-1">
+                               <samp className=" text-gray-300 w-16 bg-orange-500 text-sm font-bold  p-1">
                                    R${product.price}
                                </samp>
                        
@@ -57,7 +57,7 @@ export default function Card({ product }: productProps) {
                                     <div>
                                         {(product.category === 'lancheCombo') ? (
                                             <div className=" flex flex-col items-start">
-                                                <p className="   text-center">
+                                                <p className="   ">
                                                     {product.name}
                                                 </p>
                                                 <p className=" text-xs  text-orange-400">
@@ -66,7 +66,7 @@ export default function Card({ product }: productProps) {
                                             </div>
                                         ) : (
                                             <div>
-                                                <p className="   text-center">
+                                                <p className="  ">
                                                     {product.name}
                                                 </p>
                                             </div>
