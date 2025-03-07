@@ -777,21 +777,21 @@ export const  combos = ([
             {
                 id: "501",
                 name: "PICANHA COM FRITAS MEIA COMPLETO",
-                price: "154",
+                price: "129,99",
                 category: "lanche",
                 description:"Picanha em tiras na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
             },
             {
                 id: "501",
                 name: "PICANHA COM FRITAS INTEIRA COMPLETO",
-                price: "206",
+                price: "168,99",
                 category: "lanche",
                 description:"Picanha em tiras na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
             },
             {
                 id: "502",
                 name: "FILE ACEBOLADO COM FRITAS MEIO COMPLETO",
-                price: "154",
+                price: "124,99",
                 category: "lanche",
                 description:"file acebolado na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
 
@@ -799,7 +799,7 @@ export const  combos = ([
             {
                 id: "502",
                 name: "FILE ACEBOLADO COM FRITAS INTEIRO COMPLETO",
-                price: "191",
+                price: "157,99",
                 category: "lanche",
                 description:"file acebolado na chapa, Batata, Mandioca, Arros, Feijão Tropeiro e salada"
 
