@@ -9,7 +9,7 @@ export default function Home() {
         <div className="flex flex-col ">
 
             <div className="text-gray-100  w-full p-2 text-center justify-start items-center">
-                <h1 className=" text-3xl"> BRASA BURGER </h1>
+                <h1 className=" text-3xl"> BRASA BURGUER </h1>
                 <span className=" text-xl ">A ROTA DO SABOR</span>
             </div>
 
