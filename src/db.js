@@ -225,7 +225,7 @@ export const dataPorcoes = ([
             },
             {
                 id: "124",
-                name: "TULIPA DE FRANDO",
+                name: "TULIPA DE FRANGO",
                 price: "33,99",
                 price1: "24,99",
                 category: "porcao"
@@ -627,7 +627,7 @@ export const dataBebidas = ([
     },
     {
         id: "32",
-        tate: "DRINQUES",
+        tate: "DRINKS",
         itens: [
             {
                 id: "450",
