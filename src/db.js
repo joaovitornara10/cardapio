@@ -598,88 +598,31 @@ export const dataBebidas = ([
         itens: [
             {
                 id: "400",
-                name: "LARANJA COPO ",
+                name: "COPO 400ML ",
                 price: "9,99",
-                category: "bebidas"
+                category: "bebidas",
+                description: "ABACAXI, ABACAXI COM HORTELA, ACEROLA, LARANJA, MARACUJA.",
+
 
             },
             {
                 id: "401",
-                name: "LARANJA JARRA 750ML ",
+                name: " JARRA 750ML ",
                 price: "19,99",
-                category: "bebidas"
+                category: "bebidas",
+                description: "ABACAXI, ABACAXI COM HORTELA, ACEROLA, LARANJA, MARACUJA.",
 
             },
             {
                 id: "402",
-                name: "LARANJA JARRA 1L ",
+                name: "JARRA 1L ",
                 price: "24,99",
-                category: "bebidas"
+                category: "bebidas",
+                description: "ABACAXI, ABACAXI COM HORTELA, ACEROLA, LARANJA, MARACUJA.",
 
             },
-            {
-                id: "403",
-                name: "ABACAXI COPO ",
-                price: "9,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "404",
-                name: "ABACAXI JARRA 750ML ",
-                price: "19,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "405",
-                name: "ABACAXI JARRA 1L ",
-                price: "24,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "406",
-                name: "ABACAXI COM HORTELA COPO ",
-                price: "9,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "407",
-                name: "ABACAXI COM HORTELA JARRA 750ML ",
-                price: "19,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "408",
-                name: "ABACAXI COM HORTELA JARRA 1L ",
-                price: "24,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "409",
-                name: "MARACUJA COPO ",
-                price: "9,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "410",
-                name: "MARACUJA JARRA 750ML ",
-                price: "19,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "411",
-                name: "MARACUJA JARRA 1L ",
-                price: "24,99",
-                category: "bebidas"
-
-            },
+            
+          
         ]
     },
     {
@@ -751,22 +694,6 @@ export const dataBebidas = ([
     }
 ])
 
-export const data2 = ([
-
-    {
-
-    },
-    {
-        id: "113",
-        name: "batata",
-        price: 20,
-        price1: 40,
-        category: "porcao",
-        description: "BATATA FRITA INTEIRA",
-        category: "porcao"
-    },
-
-]);
 
 export const  combos = ([
     
@@ -848,25 +775,7 @@ export const  combos = ([
     }
 ]);
 
-export const pratoExecultivos = ([
-    {
-        id: "421",
-        name: "LIMONADA SUIÇA ",
-        price: "25,99",
-        category: "bebidas"
 
-    },
-]);
-
-export const drinkes = ([
-    {
-        id: "421",
-        name: "LIMONADA SUIÇA ",
-        price: "25,99",
-        category: "bebidas"
-
-    },
-]);
 export const dose = ([
     {
         id: "421",
