@@ -16,21 +16,29 @@ export default function Home() {
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
+                    <Image src='/bannershol.jpeg'
+                        width={600}
+                        height={700}
+                        alt="destaque" />
+                </div>
+            </div>  <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+
+                <div className=" relative w-full h-full ">
                     <Image src='/bannerchopp.png'
                         width={600}
                         height={700}
                         alt="destaque" />
                 </div>
             </div>
-            
-            {/**
+
+
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                 <div className="p-2 w-full justify-center text-center text-xl  ">
                     <h2 className=" text-orange-500">OFERTA DO DIA </h2>
                 </div>
                 <div>
                     <div className=" relative w-full h-full ">
-                        <Image src='banerdestake.jpeg'
+                        <Image src='/banerdestake.jpeg'
                             width={600}
                             height={700}
                             alt="destaque" />
@@ -38,7 +46,7 @@ export default function Home() {
                 </div>
             </div>
 
-*/}
+
             {
                 destaque.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
