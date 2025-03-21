@@ -481,7 +481,7 @@ export const dataBebidas = ([
             {
                 id: "351",
                 name: "SKOL 600ML",
-                price: "11,99",
+                price: "10,99",
                 category: "bebidas"
 
             },
@@ -495,7 +495,7 @@ export const dataBebidas = ([
             {
                 id: "353",
                 name: "BRAMA 600ML",
-                price: "11,99",
+                price: "10,99",
                 category: "bebidas"
 
             },
