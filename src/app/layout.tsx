@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "BRASA BURGER",
-  description: "BRASA BURGER",
+  description: "D.J Artes - Cardapio",
 };
 
 export default function RootLayout({
