@@ -152,6 +152,19 @@ export default function Home() {
                     </div>
                 ))
             }
+            <Link href={"https://www.instagram.com/d.j__artes?igsh=MWk1c3Bjc2Nva3prNw=="}>
+                <div className="flex justify-center text-gray-300 py-2 items-center">
+                    <div className=" relative p-1">
+                        <Image src='/dj-artes-logo.png'
+                            width={20}
+                            height={30}
+                            alt="destaque" />
+                    </div>
+                    <h3 className="text-center">
+                        D.J Artes web design e desenvolvimento
+                    </h3>
+                </div>
+            </Link>
         </div>
     );
 }
