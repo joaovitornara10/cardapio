@@ -8,7 +8,9 @@ export default function Home() {
 
     return (
         <div className="flex flex-col ">
-            {/*
+            <div className=" flex flex-col sm:flex-row w-full justify-center">
+
+                {/*
             <div className="text-gray-100  w-full p-2 text-center justify-start items-center">
                 <h1 className=" text-3xl"> BRASA BURGUER </h1>
                 <span className=" text-xl ">A ROTA DO SABOR</span>
@@ -25,40 +27,40 @@ export default function Home() {
             </div>
   */}
 
-            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+                <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
-                <div className=" relative w-full h-full ">
-                    <Image src='/WhatsApp Image 2025-03-27 at 3.27.03 PM.jpeg'
-                        width={600}
-                        height={700}
-                        alt="destaque" />
-                </div>
-            </div>
-            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
-
-                <div className=" relative w-full h-full ">
-                    <Image src='/bannerchopp.png'
-                        width={600}
-                        height={700}
-                        alt="destaque" />
-                </div>
-            </div>
-
-
-            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
-                <div className="p-2 w-full justify-center text-center text-xl  ">
-                    <h2 className=" text-orange-500">OFERTA DO DIA </h2>
-                </div>
-                <div>
                     <div className=" relative w-full h-full ">
-                        <Image src='/banerdestake.jpeg'
+                        <Image src='/WhatsApp Image 2025-03-27 at 3.27.03 PM.jpeg'
                             width={600}
                             height={700}
                             alt="destaque" />
                     </div>
                 </div>
-            </div>
+                <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
+                    <div className=" relative w-full h-full ">
+                        <Image src='/bannerchopp.png'
+                            width={600}
+                            height={700}
+                            alt="destaque" />
+                    </div>
+                </div>
+
+
+                <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+                    <div className="p-2 w-full justify-center text-center text-xl  ">
+                        <h2 className=" text-orange-500">OFERTA DO DIA </h2>
+                    </div>
+                    <div>
+                        <div className=" relative w-full h-full ">
+                            <Image src='/banerdestake.jpeg'
+                                width={600}
+                                height={700}
+                                alt="destaque" />
+                        </div>
+                    </div>
+                </div>
+            </div>
 
             {
                 destaque.map((items, index) => (
