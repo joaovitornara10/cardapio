@@ -7,35 +7,35 @@ export const destaque = ([{
         {
             id: "350",
             name: "SKOL BEATS CAIPIRINHA 269ML ",
-            price: "11,99",
+            price: "9,99",
             category: "bebidas"
 
         },
         {
             id: "350",
             name: "SKOL BEATS GT 269ML ",
-            price: "11,99",
+            price: "9,99",
             category: "bebidas"
 
         },
         {
             id: "350",
             name: "SKOL BEATS RED MIX 269ML ",
-            price: "11,99",
+            price: "9,99",
             category: "bebidas"
 
         },
         {
             id: "350",
             name: "SKOL BEATS SENSES 269ML ",
-            price: "11,99",
+            price: "9,99",
             category: "bebidas"
 
         },
         {
             id: "350",
             name: "SKOL BEATS TROPICAL 269ML ",
-            price: "11,99",
+            price: "9,99",
             category: "bebidas"
 
         },
@@ -502,7 +502,7 @@ export const dataBebidas = ([
             {
                 id: "360",
                 name: "BRAMA LONG NECK ZERO",
-                price: "6,99",
+                price: "9,99",
                 category: "bebidas"
 
             },
@@ -537,7 +537,7 @@ export const dataBebidas = ([
             {
                 id: "358",
                 name: "HEINEKEN LONG NECK ZERO",
-                price: "12,99",
+                price: "11,99",
                 category: "bebidas"
 
             },
@@ -565,7 +565,7 @@ export const dataBebidas = ([
             {
                 id: "363",
                 name: "CORONA LONG NECK ",
-                price: "11,99",
+                price: "10,99",
                 category: "bebidas"
 
             },
