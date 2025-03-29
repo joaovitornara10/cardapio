@@ -70,7 +70,7 @@ export default function Home() {
                         </div>
 
                         <div className="grid grid-cols-1 gap-1 
-                                        sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:gap-2 xl:gap-6 ">
+                                        sm:grid-cols-2  lg:grid-cols-3 sm:gap-2 xl:gap-6 ">
                             {items.itens.map((item, index) => (
                                 <Card key={index} product={item} />
                             ))}
@@ -89,7 +89,7 @@ export default function Home() {
                             <h2 className=" text-orange-400">{items.tate}</h2>
                         </div>
                         <div className="grid grid-cols-1 gap-1 
-                                        sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:gap-2 xl:gap-6 ">
+                                        sm:grid-cols-2  lg:grid-cols-3 sm:gap-2 xl:gap-6 ">
                             {items.itens.map((item, index) => (
                                 <Card key={index} product={item} />
                             ))}
@@ -113,7 +113,7 @@ export default function Home() {
                             </p>
                         </div>
                         <div className="grid grid-cols-1 gap-1 
-                                        sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:gap-2 xl:gap-6 ">
+                                        sm:grid-cols-2  lg:grid-cols-3 sm:gap-2 xl:gap-6 ">
                             {items.itens.map((item, index) => (
                                 <Card key={index} product={item} />
                             ))}
@@ -130,7 +130,7 @@ export default function Home() {
                         </div>
 
                         <div className="grid grid-cols-1 gap-1 
-                                        sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:gap-2 xl:gap-6 ">
+                                        sm:grid-cols-2  lg:grid-cols-3 sm:gap-2 xl:gap-6 ">
                             {items.itens.map((item, index) => (
                                 <Card key={index} product={item} />
                             ))}
@@ -146,7 +146,7 @@ export default function Home() {
                         </div>
 
                         <div className="grid grid-cols-1 gap-1 
-                                        sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 sm:gap-2 xl:gap-6 ">
+                                        sm:grid-cols-2  lg:grid-cols-3 sm:gap-2 xl:gap-6 ">
                             {items.itens.map((item, index) => (
                                 <Card key={index} product={item} />
                             ))}
@@ -164,7 +164,7 @@ export default function Home() {
                             alt="destaque" />
                     </div>
                     <h3 className="text-center">
-                        D.J Artes web design e desenvolvimento
+                        DJ Artes web design e desenvolvimento
                     </h3>
                 </div>
             </Link>
