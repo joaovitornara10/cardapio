@@ -25,7 +25,7 @@ export default function Home() {
                         alt="destaque" />
                 </div>
             </div>
-  */}
+
 
                 <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
@@ -36,14 +36,16 @@ export default function Home() {
                             alt="destaque" />
                     </div>
                 </div>
+  */}                
                 <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
-
+                <Link href={"https://cupons.ambev.com.br/chopp251/lets-start"}>
                     <div className=" relative w-full h-full ">
                         <Image src='/bannerchopp.png'
                             width={600}
                             height={700}
                             alt="destaque" />
                     </div>
+                </Link>                    
                 </div>
 
 
