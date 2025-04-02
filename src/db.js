@@ -571,8 +571,15 @@ export const dataBebidas = ([
             },
             {
                 id: "364",
-                name: "SPATEN ",
+                name: "SPATEN 600ML",
                 price: "11,99",
+                category: "bebidas"
+
+            },
+            {
+                id: "364",
+                name: "SPATEN LONG NECK ",
+                price: "9,99",
                 category: "bebidas"
 
             },
@@ -583,12 +590,18 @@ export const dataBebidas = ([
                 category: "bebidas"
 
             },
-            {
+          
+             {
+                id: "365",
+                name: "STELLA LONG NECK ",
+                price: "9,99",
+                category: "bebidas"
+            },
+              {
                 id: "366",
                 name: "CDB ",
                 price: "3,99",
                 category: "bebidas"
-
             },
         ]
     },
