@@ -604,7 +604,17 @@ export const dataBebidas = ([
                 category: "bebidas"
             },
         ]
-    },
+    },{
+        id: "33",
+        tate: "energéticos",
+        itens: [
+            {
+                id: "700",
+                name: "red bull",
+                price: "13,99",
+                category: "bebidas",
+            }
+            ]}
     {
         id: "33",
         tate: "SUCOS",
