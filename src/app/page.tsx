@@ -25,18 +25,18 @@ export default function Home() {
                         alt="destaque" />
                 </div>
             </div>
-
+*/}  
 
                 <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                     <div className=" relative w-full h-full ">
-                        <Image src='/WhatsApp Image 2025-03-27 at 3.27.03 PM.jpeg'
+                        <Image src='/WhatsApp Image 2025-04-16 at 6.26.08 PM.jpeg'
                             width={600}
                             height={700}
                             alt="destaque" />
                     </div>
                 </div>
-  */}                
+                
                 <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                 <Link href={"https://cupons.ambev.com.br/chopp251/lets-start"}>
                     <div className=" relative w-full h-full ">
