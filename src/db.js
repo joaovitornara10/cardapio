@@ -402,20 +402,6 @@ export const dataBebidas = ([
 
             },
             {
-                id: "325",
-                name: "PEPSI 1L ",
-                price: "8,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "326",
-                name: "PEPSI 2L",
-                price: "9,99",
-                category: "bebidas"
-
-            },
-            {
                 id: "327",
                 name: "TONICA 350ML ",
                 price: "5,99",
@@ -426,13 +412,6 @@ export const dataBebidas = ([
                 id: "328",
                 name: "SUKITA LATA",
                 price: "5,99",
-                category: "bebidas"
-
-            },
-            {
-                id: "329",
-                name: "SUKITA 1L",
-                price: "8,99",
                 category: "bebidas"
 
             },
