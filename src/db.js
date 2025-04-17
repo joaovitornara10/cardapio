@@ -88,18 +88,12 @@ export const dataLanches = ([ //
                 description: "Pão Selado, Hamburguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lanche"
             },
-            {
-                id: "114",
-                name: "BRASA COM ANEL DE BACON ",
-                price: "36,99",
-                description: "Pão Selado, Hamburguer Artesanal, Anel de Cebola Enrrolado com Tiras de Bacon e Mussarela, Cheddar, Molho Especial, Cebola Caramelizada, Alface e Tomate.",
-                category: "lanche"
-            },
+           
             {
                 id: "115",
                 name: "BRASA KIDS",
                 price: "21,99",
-                description: "Mini Pão, Hamburguer 100g, Mussarela, Molho Especial, Alface e Tomate.",
+                description: "Mini Pão, Hamburguer 100g, Mussarela, Molho Especial.",
                 category: "lanche"
             },
         ]
@@ -130,18 +124,12 @@ export const dataLanches = ([ //
                 description: "Pão Selado, Hamburguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lancheCombo"
             },
-            {
-                id: "124",
-                name: "BRASA COM ANEL DE BACON ",
-                price: "46,99",
-                description: "Pão Selado, Hamburguer Artesanal, Anel de Cebola Enrrolado com Tiras de Bacon e Mussarela, Cheddar, Molho Especial, Cebola Caramelizada, Alface e Tomate.",
-                category: "lancheCombo"
-            },
+           
             {
                 id: "125",
                 name: "BRASA KIDS",
                 price: "31,99",
-                description: "Mini Pão, Hamburguer 100g, Mussarela, Molho Especial, Alface e Tomate.",
+                description: "Mini Pão, Hamburguer 100g, Mussarela, Molho Especial.",
                 category: "lancheCombo"
             },]
     }
