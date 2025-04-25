@@ -152,7 +152,7 @@ export const dataPorcoes = ([
             {
                 id: "114",
                 name: "BATATA COM BACOn E CHEDAR",
-                price: "39,99",
+                price: "46,99",
                 price1: "31,99",
                 category: "porcao"
             },
@@ -235,7 +235,7 @@ export const dataPorcoes = ([
             {
                 id: "131",
                 name: "COSTELINHA DE TAMBAQUI",
-                price: "53,99",
+                price: "59,99",
                 price1: "48,99",
                 category: "porcao"
             },
