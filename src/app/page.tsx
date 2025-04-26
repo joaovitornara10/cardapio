@@ -1,6 +1,6 @@
 import { dataPorcoes, dataLanches, dataBebidas, destaque, combos } from "@/db"
 //import { ProducType } from "@/types/ProductTypes";
-import Image from "next/image";
+//import Image from "next/image";
 import Card from "./componets/Card";
 import Link from "next/link";
 
@@ -61,8 +61,9 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-            </div>
+            
 */}
+            </div>
             {
                 destaque.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
