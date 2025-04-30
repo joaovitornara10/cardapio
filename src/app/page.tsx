@@ -9,6 +9,15 @@ export default function Home() {
 
     return (
         <div className="flex flex-col ">
+            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+
+                <div className=" relative w-full h-full ">
+                    <Image src='/bannerchopp.png'
+                        width={600}
+                        height={700}
+                        alt="destaque" />
+                </div>
+            </div>
            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
@@ -18,6 +27,7 @@ export default function Home() {
                         alt="destaque" />
                 </div>
             </div>
+            
             {
                 destaque.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
