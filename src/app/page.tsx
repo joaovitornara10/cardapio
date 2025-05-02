@@ -32,7 +32,7 @@ export default function Home() {
                 destaque.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                         <div className="p-2  w-full justify-center text-center text-xl  ">
-                            <h2 className=" text-orange-400">{items.tate}</h2>
+                            <h2 className="uppercase text-orange-400">{items.tate}</h2>
                         </div>
 
                         <div className="grid grid-cols-1 gap-1 
@@ -52,7 +52,7 @@ export default function Home() {
                         <div className="p-2  w-full justify-center text-center text-xl  ">
                             <h2 className="text-gray-100  ">PEÇA O SEU</h2>
 
-                            <h2 className=" text-orange-400">{items.tate}</h2>
+                            <h2 className="uppercase text-orange-400">{items.tate}</h2>
                         </div>
                         <div className="grid grid-cols-1 gap-1 
                                         sm:grid-cols-2  lg:grid-cols-3 sm:gap-2 xl:gap-6 ">
@@ -72,7 +72,7 @@ export default function Home() {
                 {dataPorcoes.map((items, index) => (
                     <div key={index}>
                         <div className=" flex w-full justify-between text-base px-1.5">
-                            <p className="text-orange-400  "> {items.tate}</p>
+                            <p className="uppercase text-orange-400  "> {items.tate}</p>
                             <p className="text-gray-100 flex gap-2 ">
                                 <samp> inteira </samp>
                                 <samp> meia </samp>
@@ -92,7 +92,7 @@ export default function Home() {
                 combos.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                         <div className="p-2  w-full justify-center text-center text-xl  ">
-                            <h2 className=" text-orange-400">{items.tate}</h2>
+                            <h2 className="uppercase text-orange-400">{items.tate}</h2>
                         </div>
 
                         <div className="grid grid-cols-1 gap-1 
@@ -108,7 +108,7 @@ export default function Home() {
                 dataBebidas.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                         <div className="p-2  w-full justify-center text-center text-xl  ">
-                            <h2 className=" text-orange-400">{items.tate}</h2>
+                            <h2 className="uppercase text-orange-400">{items.tate}</h2>
                         </div>
 
                         <div className="grid grid-cols-1 gap-1 
