@@ -638,7 +638,7 @@ export const dataBebidas = ([
                 name: "CAIPIRINHAS ",
                 price: "24,99",
                 category: "bebidas",
-                description: "LIMAO, MORANGO, ABACAXI, KIWI"
+                description: "LIMÃO, MORANGO, ABACAXI, KIWI"
             },
         ]
     },
