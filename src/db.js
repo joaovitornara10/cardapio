@@ -71,21 +71,21 @@ export const dataLanches = ([ //
                 id: "111",
                 name: "BRASA BURGUER",
                 price: "29,99",
-                description: "Pão Selado, Hamburguer Artesanal, Mussarela, Ovo, Bacon, Molho Especial, Cebola Caramelizada, Alface e Tomate.",
+                description: "Pão Selado, Hambúrguer Artesanal, Mussarela, Ovo, Bacon, Molho Especial, Cebola Caramelizada, Alface e Tomate.",
                 category: "lanche"
             },
             {
                 id: "112",
                 name: "BRASA COSTELA",
                 price: "27,99",
-                description: "Pão Selado, Hamburguer Artesanal de Costela, Mussarela, Cheddar, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
+                description: "Pão Selado, Hambúrguer Artesanal de Costela, Mussarela, Cheddar, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lanche"
             },
             {
                 id: "113",
                 name: "BRASA DEFUMADO",
                 price: "31,99",
-                description: "Pão Selado, Hamburguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
+                description: "Pão Selado, Hambúrguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lanche"
             },
            
@@ -93,7 +93,7 @@ export const dataLanches = ([ //
                 id: "115",
                 name: "BRASA KIDS",
                 price: "21,99",
-                description: "Mini Pão, Hamburguer 100g, Mussarela, Molho Especial.",
+                description: "Mini Pão, Hambúrguer 100g, Mussarela, Molho Especial.",
                 category: "lanche"
             },
         ]
@@ -107,21 +107,21 @@ export const dataLanches = ([ //
                 id: "121",
                 name: "BRASA BURGUER",
                 price: "39,99",
-                description: "Pão Selado, Hamburguer Artesanal, Mussarela, Ovo, Bacon, Molho Especial, Cebola Caramelizada, Alface e Tomate.",
+                description: "Pão Selado, Hambúrguer Artesanal, Mussarela, Ovo, Bacon, Molho Especial, Cebola Caramelizada, Alface e Tomate.",
                 category: "lancheCombo"
             },
             {
                 id: "122",
                 name: "BRASA COSTELA",
                 price: "37,99",
-                description: "Pão Selado, Hamburguer Artesanal de Costela, Mussarela, Cheddar, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
+                description: "Pão Selado, Hambúrguer Artesanal de Costela, Mussarela, Cheddar, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lancheCombo"
             },
             {
                 id: "123",
                 name: "BRASA DEFUMADO",
                 price: "41,99",
-                description: "Pão Selado, Hamburguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
+                description: "Pão Selado, Hambúrguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lancheCombo"
             },
            
@@ -129,7 +129,7 @@ export const dataLanches = ([ //
                 id: "125",
                 name: "BRASA KIDS",
                 price: "31,99",
-                description: "Mini Pão, Hamburguer 100g, Mussarela, Molho Especial.",
+                description: "Mini Pão, Hambúrguer 100g, Mussarela, Molho Especial.",
                 category: "lancheCombo"
             },]
     }
@@ -151,7 +151,7 @@ export const dataPorcoes = ([
             },
             {
                 id: "114",
-                name: "BATATA COM BACOn E CHEDAR",
+                name: "BATATA COM BACOn E CHEDDAR",
                 price: "46,99",
                 price1: "31,99",
                 category: "porcao"
@@ -199,14 +199,14 @@ export const dataPorcoes = ([
             },
             {
                 id: "122",
-                name: "FILE ACEBOLADO NA CHAPA",
+                name: "FILÉ ACEBOLADO NA CHAPA",
                 price: "59,99",
                 price1: "44,99",
                 category: "porcao"
             },
             {
                 id: "123",
-                name: "FILE DE FRANGO",
+                name: "FILÉ DE FRANGO",
                 price: "39,99",
                 price1: "29,99",
                 category: "porcao"
@@ -220,7 +220,7 @@ export const dataPorcoes = ([
             },
             {
                 id: "125",
-                name: "STAKE DE FRANGO",
+                name: "STEAK DE FRANGO",
                 price: "37,99",
                 price1: "26,99",
                 category: "porcao"
@@ -292,7 +292,7 @@ export const dataBebidas = ([
         itens: [
             {
                 id: "311",
-                name: "AGUA MINERAL 500ML ",
+                name: "ÁGUA MINERAL 500ML ",
                 price: "3,99",
                 category: "bebidas"
 
@@ -300,7 +300,7 @@ export const dataBebidas = ([
             },
             {
                 id: "312",
-                name: "AGUA COM GAZ 500ML ",
+                name: "ÁGUA COM GÁZ 500ML ",
                 price: "4,99",
                 category: "bebidas"
 
@@ -454,21 +454,21 @@ export const dataBebidas = ([
             },
             {
                 id: "352",
-                name: "BRAMA LATA 269ML ",
+                name: "BRAHMA LATA 269ML ",
                 price: "6,99",
                 category: "bebidas"
 
             },
             {
                 id: "353",
-                name: "BRAMA 600ML",
+                name: "BRAHMA 600ML",
                 price: "10,99",
                 category: "bebidas"
 
             },
             {
                 id: "360",
-                name: "BRAMA LONG NECK ZERO",
+                name: "BRAHMA LONG NECK ZERO",
                 price: "9,99",
                 category: "bebidas"
 
@@ -698,7 +698,7 @@ export const  combos = ([
     
     {
         id: "41",
-        tate: "ALACARTES",
+        tate: "À LA CARTE",
         itens: [
             {
                 id: "501",
@@ -716,18 +716,18 @@ export const  combos = ([
             },
             {
                 id: "502",
-                name: "FILE ACEBOLADO COM FRITAS MEIO COMPLETO",
+                name: "FILÉ ACEBOLADO COM FRITAS MEIO COMPLETO",
                 price: "124,99",
                 category: "lanche",
-                description:"file acebolado na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
+                description:"filé acebolado na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
 
             },  
             {
                 id: "502",
-                name: "FILE ACEBOLADO COM FRITAS INTEIRO COMPLETO",
+                name: "FILÉ ACEBOLADO COM FRITAS INTEIRO COMPLETO",
                 price: "157,99",
                 category: "lanche",
-                description:"file acebolado na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
+                description:"filé acebolado na chapa, Batata, Mandioca, Arroz, Feijão Tropeiro e salada"
 
             },           
         ]
@@ -738,17 +738,17 @@ export const  combos = ([
         itens: [
             {
                 id: "511",
-                name: "PRATO EXECULTIVO DE FILE A PARMEGIANA",
+                name: "PRATO EXECUTIVO DE FILÉ À PARMEGIANA",
                 price: "26,99",
                 category: "lanche",
-                description:"File de bovine a parmegiana, Batata, Arroz, Feijão Tropeiro e salada"
+                description:"Filé de bovino à parmegiana, Batata, Arroz, Feijão Tropeiro e salada"
             },
             {
                 id: "512",
-                name: "PRATO EXECULTIVO DE FRANGO A PARMEGIANA",
+                name: "PRATO EXECUTIVO DE FRANGO À PARMEGIANA",
                 price: "26,99",
                 category: "lanche",
-                description:"File de frango a parmegiana, Batata, Arroz, Feijão Tropeiro e salada"
+                description:"Filé de frango à parmegiana, Batata, Arroz, Feijão Tropeiro e salada"
             },           
         ]
     },
@@ -761,7 +761,7 @@ export const  combos = ([
                 name: "COMBO DE FRITAS",
                 price: "93",
                 category: "lanche",
-                description:"Batata, Calabresa, Mandioca"
+                description:"Batata, Calabresa, Mandioca e Filé de Frango"
             },
             {
                 id: "532",
