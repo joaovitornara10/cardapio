@@ -44,24 +44,6 @@ export const destaque = ([{
 
 ]);
 
-export const dataComplement = ([
-    {
-        id: "211",
-        name: "batata",
-        price: 20,
-    },
-    {
-        id: "212",
-        name: "hanburquer",
-        price: 20,
-    },
-    {
-        id: "213",
-        name: "bacon",
-        price: 20,
-    },
-]);
-
 export const dataLanches = ([ //
     {
         id: "001",
@@ -151,7 +133,7 @@ export const dataPorcoes = ([
             },
             {
                 id: "114",
-                name: "BATATA COM BACOn E CHEDDAR",
+                name: "BATATA COM BACON E CHEDDAR",
                 price: "46,99",
                 price1: "31,99",
                 category: "porcao"
@@ -248,7 +230,7 @@ export const dataPorcoes = ([
             },
             {
                 id: "133",
-                name: "FILÉ DE TILAPIA ",
+                name: "FILÉ DE TILÁPIA ",
                 price: "53,99",
                 price1: "38,99",
                 category: "porcao"
@@ -300,7 +282,7 @@ export const dataBebidas = ([
             },
             {
                 id: "312",
-                name: "ÁGUA COM GÁZ 500ML ",
+                name: "ÁGUA COM GÁS 500ML ",
                 price: "4,99",
                 category: "bebidas"
 
@@ -651,7 +633,6 @@ export const dataBebidas = ([
                 name: "TORRE DE H2O",
                 price: "29,99",
                 category: "bebidas",
-                description: "Ervas de tereré Menta uva, Boldo Hortelã, Eucalipto, Energético, Tutti Fruit, Black, Pura folha, Cereja, Ice Limão"
                                            
             },
             {
@@ -659,28 +640,24 @@ export const dataBebidas = ([
                 name: "LIMONADA SUIÇA",
                 price: "29,99",
                 category: "bebidas",
-                description: "Ervas de tereré Menta uva, Boldo Hortelã, Eucalipto, Energético, Tutti Fruit, Black, Pura folha, Cereja, Ice Limão"
             },
             {
                 id: "450",
                 name: "GUARANA E LIMÃO ",
                 price: "29,99",
                 category: "bebidas",
-                description: "Ervas de tereré Menta uva, Boldo Hortelã, Eucalipto, Energético, Tutti Fruit, Black, Pura folha, Cereja, Ice Limão"
             },            
             {
                 id: "450",
                 name: "MARACUJA E LIMÃO ",
                 price: "29,99",
                 category: "bebidas",
-                description: "Ervas de tereré Menta uva, Boldo Hortelã, Eucalipto, Energético, Tutti Fruit, Black, Pura folha, Cereja, Ice Limão"
             },            
             {
                 id: "450",
                 name: "LIMÃO E HORTELA  ",
                 price: "29,99",
                 category: "bebidas",
-                description: "Ervas de tereré Menta uva, Boldo Hortelã, Eucalipto, Energético, Tutti Fruit, Black, Pura folha, Cereja, Ice Limão"
             },            
             {
                 id: "450",
@@ -773,25 +750,3 @@ export const  combos = ([
         ]
     }
 ]);
-
-
-export const dose = ([
-    {
-        id: "421",
-        name: "LIMONADA SUIÇA ",
-        price: "25,99",
-        category: "bebidas"
-
-    },
-]);
-/*
-combos 
-batata com bacon e chader calabresa =53
-
-batata  calabresa mandioca = 70
-
-combos de bebiadas
-
-baldinho 
-
-*/
