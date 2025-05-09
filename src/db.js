@@ -622,6 +622,19 @@ export const dataBebidas = ([
                 category: "bebidas",
                 description: "LIMÃO, MORANGO, ABACAXI, KIWI"
             },
+            {
+                id: "450",
+                name: "COPÃO DE VODKA COM ENERGÉTICO",
+                price: "9,99",
+                category: "bebidas",
+                description: "Maracujá, Morango, Melancia e Maça Verde"
+            }, {
+                id: "450",
+                name: "COPÃO DE WHISKY COM ENERGÉTICO",
+                price: "24,99",
+                category: "bebidas",
+                description: "Maracujá, Morango, Melancia e Maça Verde"
+            },
         ]
     },
     {
