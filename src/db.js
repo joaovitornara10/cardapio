@@ -493,7 +493,7 @@ export const dataBebidas = ([
             {
                 id: "359",
                 name: "HEINEKEN 600ML",
-                price: "18,99",
+                price: "19,99",
                 category: "bebidas"
 
             },
