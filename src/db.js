@@ -521,7 +521,7 @@ export const dataBebidas = ([
             {
                 id: "364",
                 name: "SPATEN 600ML",
-                price: "11,99",
+                price: "12,99",
                 category: "bebidas"
 
             },
