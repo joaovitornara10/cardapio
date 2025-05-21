@@ -218,7 +218,7 @@ export const dataPorcoes = ([
                 id: "131",
                 name: "COSTELINHA DE TAMBAQUI",
                 price: "59,99",
-                price1: "48,99",
+                price1: "38,99",
                 category: "porcao"
             },
             {
