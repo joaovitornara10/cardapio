@@ -1,12 +1,122 @@
 
+export const destaque = ([
+    {
+    id: "32",
+    tate: "ESPETINOS GOURMET SIMPLES",
+    itens: [
+        {
+            id: "350",
+            name: "Espetinho Picanha ",
+            price: "14,99",
+            category: "bebidas"
 
-export const destaque = ([{
+        },
+        {
+            id: "350",
+            name: "Espetinho Alcatra  ",
+            price: "14,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho Contra Filé ",
+            price: "14,99",
+            category: "bebidas"
+
+        },       
+    ],
+    },  {
+    id: "32",
+    tate: "ESPETINOS GOURMET COMPLETO",
+    itens: [
+        {
+            id: "350",
+            name: "Espetinho de Picanha ",
+            price: "32,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Alcatra  ",
+            price: "32,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Contra Filé ",
+            price: "32,99",
+            category: "bebidas"
+
+        },       
+    ],
+    },
+      {
+    id: "32",
+    tate: "ESPETINOS TRADICIONAL SIMPLES",
+    itens: [
+        {
+            id: "350",
+            name: "Espetinho de Carne",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Frango",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Coração",
+            price: "11,99",
+            category: "bebidas"
+
+        },       
+    ],
+    }, 
+    {
+    id: "32",
+    tate: "ESPETINOS TRADICIONAL COMPLETO",
+    itens: [
+        {
+            id: "350",
+            name: "Espetinho de Carne",
+            price: "30,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Frango",
+            price: "30,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Coração",
+            price: "30,99",
+            category: "bebidas"
+
+        },       
+    ],
+    },
+
+]);
+
+export const destaque2 = ([{
     id: "32",
     tate: "SKOL BEATS",
     itens: [
         {
             id: "350",
-            name: "SKOL BEATS CAIPIRINHA 269ML ",
+            name: "Espetinho picanha alcatra contra filé ",
             price: "9,99",
             category: "bebidas"
 
