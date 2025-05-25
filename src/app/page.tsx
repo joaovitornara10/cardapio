@@ -30,7 +30,7 @@ export default function Home() {
             </div>
             */}
             {
-                destaque.map((items, index) => (
+                destaque2.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
                         <div className="p-2  w-full justify-center text-center text-xl  ">
                             <h2 className="uppercase text-orange-400">{items.tate}</h2>
@@ -47,6 +47,21 @@ export default function Home() {
                 ))
             }
 
+            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+                
+                {destaque.map((items, index) => (
+                    <div key={index}>
+                       
+                        <div className="grid grid-cols-1 gap-1 
+                                        sm:grid-cols-2  lg:grid-cols-3 sm:gap-2 xl:gap-6 ">
+                            {items.itens.map((item, index) => (
+                                <Card key={index} product={item} />
+                            ))}
+                        </div>
+                    </div>
+                ))
+                }
+            </div>
             {
                 dataLanches.map((items, index) => (
                     <div key={index} className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
