@@ -24,6 +24,32 @@ export const destaque = ([
             price: "14,99",
             category: "bebidas"
         },       
+      
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Frango",
+            price: "14,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de File",
+            price: "14,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Mandioca",
+            price: "14,99",
+            category: "bebidas"
+        },   
+           
+        {
+            id: "350",
+            name: "Espetinho Panceta de Porco",
+            price: "11,99",
+            category: "bebidas"
+        },  
          {
             id: "350",
             name: "Espetinho de Carne",
@@ -43,8 +69,9 @@ export const destaque = ([
             name: "Espetinho de Coração",
             price: "11,99",
             category: "bebidas"
-
         },   
+        
+        
     ],
     },  {
     id: "32",
@@ -52,45 +79,82 @@ export const destaque = ([
     itens: [
         {
             id: "350",
-            name: "Espetinho de Picanha ",
-            price: "32,99",
-            category: "bebidas"
+            name: "Espetinho Picanha ",
+            price: "14,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+
 
         },
         {
             id: "350",
-            name: "Espetinho de Alcatra  ",
-            price: "32,99",
-            category: "bebidas"
+            name: "Espetinho Alcatra  ",
+            price: "14,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
 
         },
         {
             id: "350",
-            name: "Espetinho de Contra Filé ",
-            price: "32,99",
-            category: "bebidas"
+            name: "Espetinho Contra Filé ",
+            price: "14,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
         },       
+      
         {
+            id: "350",
+            name: "Espetinho de Medalhão de Frango",
+            price: "14,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de File",
+            price: "14,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Mandioca",
+            price: "14,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },   
+           
+        {
+            id: "350",
+            name: "Espetinho Panceta de Porco",
+            price: "11,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
+        },  
+         {
             id: "350",
             name: "Espetinho de Carne",
-            price: "30,99",
-            category: "bebidas"
+            price: "11,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
 
         },
         {
             id: "350",
             name: "Espetinho de Frango",
-            price: "30,99",
-            category: "bebidas"
+            price: "11,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
 
         },
         {
             id: "350",
             name: "Espetinho de Coração",
-            price: "30,99",
-            category: "bebidas"
-
+            price: "11,99",
+            category: "bebidas",
+            description: "Arroz, Feijão Tropeiro e Vinagrete .",
         },   
+        
     ],
     },
 ]);
