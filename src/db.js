@@ -2,7 +2,7 @@
 export const destaque = ([
     {
     id: "32",
-    tate: "ESPETINOS GOURMET SIMPLES",
+    tate: "ESPETINOS SIMPLES",
     itens: [
         {
             id: "350",
@@ -23,12 +23,32 @@ export const destaque = ([
             name: "Espetinho Contra Filé ",
             price: "14,99",
             category: "bebidas"
-
         },       
+         {
+            id: "350",
+            name: "Espetinho de Carne",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Frango",
+            price: "11,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "Espetinho de Coração",
+            price: "11,99",
+            category: "bebidas"
+
+        },   
     ],
     },  {
     id: "32",
-    tate: "ESPETINOS GOURMET COMPLETO",
+    tate: "ESPETINOS COMPLETO",
     itens: [
         {
             id: "350",
@@ -49,41 +69,7 @@ export const destaque = ([
             name: "Espetinho de Contra Filé ",
             price: "32,99",
             category: "bebidas"
-
         },       
-    ],
-    },
-      {
-    id: "32",
-    tate: "ESPETINOS TRADICIONAL SIMPLES",
-    itens: [
-        {
-            id: "350",
-            name: "Espetinho de Carne",
-            price: "11,99",
-            category: "bebidas"
-
-        },
-        {
-            id: "350",
-            name: "Espetinho de Frango",
-            price: "11,99",
-            category: "bebidas"
-
-        },
-        {
-            id: "350",
-            name: "Espetinho de Coração",
-            price: "11,99",
-            category: "bebidas"
-
-        },       
-    ],
-    }, 
-    {
-    id: "32",
-    tate: "ESPETINOS TRADICIONAL COMPLETO",
-    itens: [
         {
             id: "350",
             name: "Espetinho de Carne",
@@ -104,10 +90,9 @@ export const destaque = ([
             price: "30,99",
             category: "bebidas"
 
-        },       
+        },   
     ],
     },
-
 ]);
 
 export const destaque2 = ([{
