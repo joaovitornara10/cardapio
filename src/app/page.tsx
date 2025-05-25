@@ -1,4 +1,4 @@
-import { dataPorcoes, dataLanches, dataBebidas, destaque, combos } from "@/db"
+import { dataPorcoes, dataLanches, dataBebidas, destaque,destaque2, combos } from "@/db"
 //import { ProducType } from "@/types/ProductTypes";
 import Image from "next/image";
 
