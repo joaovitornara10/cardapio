@@ -2,6 +2,80 @@
 export const destaque = ([
     {
     id: "32",
+    tate: "SOMENTE O ESPETINHO",
+    itens: [
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Picanha ",
+            price: "13,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Alcatra  ",
+            price: "13,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Contra Filé ",
+            price: "13,99",
+            category: "bebidas"
+        },       
+      
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Medalhão de Frango",
+            price: "13,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Medalhão de File",
+            price: "13,99",
+            category: "bebidas"
+        },   
+        {
+            id: "350",
+            name: "Espetinho de Medalhão de Mandioca",
+            price: "13,99",
+            category: "bebidas"
+        },   
+           
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho Panceta de Porco",
+            price: "10,99",
+            category: "bebidas"
+        },  
+         {
+            id: "350",
+            name: "SOMENTE O Espetinho de Carne",
+            price: "10,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Frango",
+            price: "10,99",
+            category: "bebidas"
+
+        },
+        {
+            id: "350",
+            name: "SOMENTE O Espetinho de Coração",
+            price: "10,99",
+            category: "bebidas"
+        },   
+        
+        
+    ],
+    }, 
+    {
+    id: "32",
     tate: "ESPETINOS SIMPLES",
     itens: [
         {
@@ -73,7 +147,8 @@ export const destaque = ([
         
         
     ],
-    },  {
+    }, 
+    {
     id: "32",
     tate: "ESPETINOS COMPLETOS",
     itens: [
