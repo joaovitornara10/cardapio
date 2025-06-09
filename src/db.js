@@ -322,21 +322,21 @@ export const dataLanches = ([ //
             {
                 id: "121",
                 name: "BRASA BURGUER",
-                price: "39,99",
+                price: "41,99",
                 description: "Pão Selado, Hambúrguer Artesanal, Mussarela, Ovo, Bacon, Molho Especial, Cebola Caramelizada, Alface e Tomate.",
                 category: "lancheCombo"
             },
             {
                 id: "122",
                 name: "BRASA COSTELA",
-                price: "37,99",
+                price: "39,99",
                 description: "Pão Selado, Hambúrguer Artesanal de Costela, Mussarela, Cheddar, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lancheCombo"
             },
             {
                 id: "123",
                 name: "BRASA DEFUMADO",
-                price: "41,99",
+                price: "42,99",
                 description: "Pão Selado, Hambúrguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lancheCombo"
             },
@@ -524,7 +524,7 @@ export const dataBebidas = ([
             {
                 id: "313",
                 name: "COCA-COLA KS ",
-                price: "5,99",
+                price: "6,99",
                 category: "bebidas"
 
             },
@@ -807,7 +807,7 @@ export const dataBebidas = ([
             {
                 id: "400",
                 name: "COPO 400ML ",
-                price: "9,99",
+                price: "10,99",
                 category: "bebidas",
                 description: "ABACAXI, ABACAXI COM HORTELA, ACEROLA, LARANJA, MARACUJA.",
 
