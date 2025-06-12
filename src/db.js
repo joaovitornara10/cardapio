@@ -1,4 +1,4 @@
-
+/**
 export const destaque = ([
     {
     id: "32",
@@ -277,7 +277,7 @@ export const destaque2 = ([{
     },
 
 ]);
-
+**/
 export const dataLanches = ([ //
     {
         id: "001",
