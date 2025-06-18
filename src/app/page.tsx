@@ -12,6 +12,15 @@ export default function Home() {
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
+                    <Image src='/IMG-20250417-WA0070(1).jpg'
+                        width={600}
+                        height={700}
+                        alt="destaque" />
+                </div>
+            </div> 
+            <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
+
+                <div className=" relative w-full h-full ">
                     <Image src='/bannerchopp.png'
                         width={600}
                         height={700}
