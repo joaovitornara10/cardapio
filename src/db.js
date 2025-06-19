@@ -150,7 +150,7 @@ export const destaque = ([
     }, 
     {
     id: "32",
-    tate: "ESPETINOS COMPLETOS",
+    tate: "ESPETINHOS COMPLETOS",
     itens: [
         {
             id: "350",
