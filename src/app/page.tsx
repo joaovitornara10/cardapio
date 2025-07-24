@@ -13,7 +13,7 @@ export default function Home() {
             <div className=" flex flex-col gap-2 border-2 border-orange-500 m-1.5 p-1.5 ">
 
                 <div className=" relative w-full h-full ">
-                    <Image src='/bannerchopp2.png'
+                    <Image src='/bannerchopp2.jpeg'
                         width={600}
                         height={700}
                         alt="destaque" />
