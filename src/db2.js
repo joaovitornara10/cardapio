@@ -7,7 +7,7 @@ export const bebidas = ([ //
         price: "3,99",
         category: "bebidas"
 
-
+ 
     },
     {
         id: "312",
@@ -566,5 +566,6 @@ export const combosLanche = ([ //
         description: "Mini Pão, Hamburguer 100g, Mussarela, Molho Especial, Alface e Tomate.",
         category: "lancheCombo"
     },
+
 
 ]);
