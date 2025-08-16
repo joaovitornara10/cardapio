@@ -850,7 +850,7 @@ export const dataBebidas = ([
             {
                 id: "450",
                 name: "MOSCOW MULE ",
-                price: "27,99",
+                price: "23,99",
                 category: "bebidas",
                 description: "XAROPE DE GENGIBRE, XAROPE DE AÇUCAR, LIMÃO E VODKA"
 
@@ -1015,5 +1015,6 @@ export const  combos = ([
         ]
     }
 ]);
+
 
 
