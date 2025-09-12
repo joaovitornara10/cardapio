@@ -38,7 +38,7 @@ export const destaque = ([
                 name: "COMBO DE FILÉ COM FRITAS SIMPLES ",
                 price: "89,99",
                 category: "lanche",
-                description:"Fifé aceboládo com Batata e Mandioca"
+                description:"Filé aceboládo com Batata e Mandioca"
             },  
             {
                 id: "532",
@@ -1082,7 +1082,7 @@ export const  combos = ([
                 name: "COMBO DE FILÉ COM FRITAS SIMPLES ",
                 price: "89,99",
                 category: "lanche",
-                description:"Fifé aceboládo com Batata e Mandioca"
+                description:"Filé aceboládo com Batata e Mandioca"
             },  
             {
                 id: "532",
@@ -1095,6 +1095,7 @@ export const  combos = ([
         ]
     }
 ]);
+
 
 
 
