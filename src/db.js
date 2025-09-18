@@ -364,7 +364,13 @@ export const dataLanches = ([ //
                 description: "Pão Selado, Hambúrguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lanche"
             },
-           
+            {
+                id: "114",
+                name: "BRASA ONION",
+                price: "19,99",
+                description: "Pão Selado, Hambúrguer, Mussarela, Molho Especial e Onion Rings.",
+                category: "lanche"
+            },
             {
                 id: "115",
                 name: "BRASA KIDS",
@@ -400,7 +406,13 @@ export const dataLanches = ([ //
                 description: "Pão Selado, Hambúrguer Artesanal Defumado, Mussarela, Cheddar, Bacon, Molho Especial, Cebola Caramelizada, Picles, Alface e Tomate.",
                 category: "lancheCombo"
             },
-           
+            {
+                id: "114",
+                name: "BRASA ONION",
+                price: "29,99",
+                description: "Pão Selado, Hambúrguer Artesanal, Mussarela, Molho Especial e Onion Rings.",
+                category: "lancheCombo"
+            },
             {
                 id: "125",
                 name: "BRASA KIDS",
@@ -1095,6 +1107,7 @@ export const  combos = ([
         ]
     }
 ]);
+
 
 
 
