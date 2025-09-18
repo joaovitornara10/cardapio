@@ -22,7 +22,7 @@ export const destaque = ([
             {
                 id: "531",
                 name: "COMBO DE FRITAS",
-                price: "93",
+                price: "92,99",
                 category: "lanche",
                 description:"Batata, Calabresa, Mandioca e Filé de Frango"
             },
@@ -1107,6 +1107,7 @@ export const  combos = ([
         ]
     }
 ]);
+
 
 
 
